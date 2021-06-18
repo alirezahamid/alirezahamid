@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my skills.
-- 🌱 I’m currently learning Microservices with React, Nodejs.
+- 🌱 I’m currently learning back-end with Nodejs, Express, Deno, Nestjs.
 - 💬 Ask me about Vue, React, CSS
 - 📫 How to reach me: alirezahamid20@gmail.com | [Linkedin](https://www.linkedin.com/in/alirezahamid/)
 - 😄 Pronouns: He/His
