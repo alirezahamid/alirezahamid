@@ -1,6 +1,5 @@
 
 
-- 📫 How to reach me: alirezahamid20@gmail.com | [Linkedin](https://www.linkedin.com/in/alirezahamid/)
 
 
 <h2> Hey there! I'm Alireza.</h2>
@@ -39,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirezahamid&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezahamid&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -49,7 +48,7 @@
 
 <p align="center">
 <a href="https://www.ahamid.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ahamid.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/alirezahamid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alirezahamid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alirezahamid-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/alirezahamidd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alirezahamidd_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:alirezahamid1996@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alirezahamid1996@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
