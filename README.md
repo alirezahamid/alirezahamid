@@ -53,3 +53,5 @@
 <a href="mailto:alirezahamid1996@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alirezahamid1996@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<a href="https://app.daily.dev/alireza_js"><img src="https://api.daily.dev/devcards/18202369262844c488011f6daf023633.png?r=sf1" width="400" alt="Alireza.js's Dev Card"/></a>
+
